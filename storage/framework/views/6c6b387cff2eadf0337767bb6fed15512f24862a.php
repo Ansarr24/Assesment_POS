@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\assesment-1\resources\views/purchase-list.blade.php ENDPATH**/ ?>
